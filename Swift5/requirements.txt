@@ -1,0 +1,6 @@
+SpeechRecognition==3.8.1
+playsound==1.2.2
+gTTS==2.2.2
+tkinterweb==2.1.8
+requests==2.25.1
+osascript==2020.12.3	
